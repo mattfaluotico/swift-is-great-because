@@ -36,6 +36,8 @@ for var i in 0...11 {
 
 Swift lets you save a line
 
+```swift
 for var i in 0...11 where i % 2 == 0{
   print(i)
 }
+```
